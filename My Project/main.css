@@ -1,0 +1,38 @@
+/**
+*{
+	border:3px solid red;
+}
+**/
+body {
+	background-color: #e5ecf1;
+	font-family:Helvetica, arial, sans-serif;
+	text-align: center;
+	line-height: 1.5;
+}
+header {
+	background-color: transparant;
+	margin-right: 30px;
+	font-size:20px;
+	word-wrap: break-word;
+}
+h1{
+	font-size: 50px;
+}
+ul{
+	font-family: futura, arial, sans-serif;
+}
+
+/**Id Selectors**/
+
+#main-footer {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+/** Psudo Classes---------------------------**/
+
+a:hover{
+	color: forestgreen;
+}
+a:link{
+	text-decoration: none;
+}
