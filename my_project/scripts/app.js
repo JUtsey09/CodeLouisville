@@ -15,7 +15,7 @@ app.set('view engine', 'html');
 
 //Database Connection
 
-mongoose.connect('mongodb://localhost/my_project', function(err) {
+mongoose.connect('mongodb://jutsey09:q1w2e3r4@ds027425.mlab.com:27425/myproject', function(err) {
   if (err) {
     console.log('Failed connecting to MongoDB!');
   } else {
