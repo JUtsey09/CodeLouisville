@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-# CodeLouisville
-My Code Louisville Projects
-=======
-# JS-Weekly-Challenges
-In-person code challenges for the May 2016 session of Full-Stack JavaScript.
+<<---My Code Louisville Files--->>
 
-##Week 3: May 16 - 19
-Iterating through an array and the .splice() method, jQuery element targeting and attribute change
+  My Code Louisville Front End Project: Random Commenting Website
+  
+  My random commenting website allows users to input their names and provide a greeting or comment for everyone to see. It's kind of like an overly simplified blog. I didn't feel the need to add an edit option since a user could simply remove their old post and start a new one. The posts arn't intended to be a novel so creating a new one and removeing the old one seemed to be an easier method for updating the posts. 
 
-##Week 4: May 23 - 26
-DOM Manipulation with raw JavaScript (no external libraries!)
->>>>>>> 10f982e49eed2799f9d23292bf99dc18927e430d
