@@ -1,4 +1,0 @@
-do {
-  prompt("Hello?");
-  while ();
-}
